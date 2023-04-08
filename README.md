@@ -13,7 +13,7 @@ npm run serve
 ```
 
 ### Watch JSON Server
-
+npm install -g json-server (if you dont have json server installed)
 json-server --watch data/db.json
 
 ### Compiles and minifies for production
